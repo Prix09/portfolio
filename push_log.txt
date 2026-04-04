@@ -1,0 +1,9 @@
+remote: warning: File public/videos/enterprise_genai.mp4 is 96.18 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: ab58682596cd10ca63443093ebdbf8f7c462515389295fc54a4dcbc5fb5c635f        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File public/videos/hospital_management.mp4 is 151.02 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File public/videos/travel_advisor.mp4 is 123.99 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Prix09/portfolio
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/Prix09/portfolio'
