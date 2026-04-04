@@ -41,7 +41,7 @@ const projects = [
     'Automated PDF Prescription Generation'
   ],
   image: 'https://images.unsplash.com/photo-1664902275922-9cd136203ba1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGhvc3BpdGFsJTIwbWFuYWdlbWVudHxlbnwwfHwwfHx8MA%3D%3D',
-  video: '/videos/hospital_management.mp4',
+  video: 'https://res.cloudinary.com/dusvrl5ei/video/upload/v1775344492/Screen_Recording_2026-03-10_174054_wua0xo.mp4',
   github: 'https://github.com/Prix09/Hospital',
   live: '#',
   impact: 'Built a secure and scalable healthcare platform enabling streamlined patient-doctor interaction'
@@ -62,7 +62,7 @@ const projects = [
     'Scalable API Architecture'
   ],
   image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFpfGVufDB8fDB8fHww',
-  video: '/videos/enterprise_genai.mp4',
+  video: 'https://res.cloudinary.com/dusvrl5ei/video/upload/v1775342098/Screen_Recording_2026-03-12_051221_yuih5w.mp4',
   github: 'https://github.com/Prix09/enterprise_genai_knowledge_assistant',
   live: '#',
   impact: 'Streamlined enterprise knowledge retrieval, reducing search time and improving response accuracy'
@@ -83,7 +83,7 @@ const projects = [
     'Optimized Performance'
   ],
   image: 'https://images.unsplash.com/photo-1605701249987-f0bb9b505d06?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bnV0cyUyMGFuZCUyMGJvbHRzfGVufDB8fDB8fHww',
-  video: '/videos/fixforge.mp4',
+  video: 'https://res.cloudinary.com/dusvrl5ei/video/upload/v1775343792/Screen_Recording_2026-03-09_183821_rvqx1m.mp4',
   github: 'https://github.com/Prix09/FixForge',
   live: '#',
   impact: 'Improved user experience and product discoverability through structured UI and responsive design'
@@ -98,7 +98,7 @@ const projects = [
   technologies: ['React', 'Node.js', 'Express', 'GenAI', 'Tailwind CSS'],
   features: ['Rapid AI Itinerary Generation', 'Intelligent Chatbot Optimization', 'Recommendation Insights', 'High-Speed Response Delivery'],
   image: 'https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D',
-  video: '/videos/travel_advisor.mp4',
+  video: 'https://res.cloudinary.com/dusvrl5ei/video/upload/v1775344755/Screen_Recording_2026-03-09_224305_jhcu5k.mp4',
   github: 'https://github.com/Prix09/Travel_Advisor',
   live: '#',
   impact: 'Delivered a seamless AI travel companion with aggressive optimization for low-latency intelligent responses'
