@@ -62,7 +62,7 @@ const projects = [
     'Scalable API Architecture'
   ],
   image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFpfGVufDB8fDB8fHww',
-  video: 'https://res.cloudinary.com/dusvrl5ei/video/upload/v1775342098/Screen_Recording_2026-03-12_051221_yuih5w.mp4',
+  video: 'https://res.cloudinary.com/dusvrl5ei/video/upload/v1775343792/Screen_Recording_2026-03-09_183821_rvqx1m.mp4',
   github: 'https://github.com/Prix09/enterprise_genai_knowledge_assistant',
   live: '#',
   impact: 'Streamlined enterprise knowledge retrieval, reducing search time and improving response accuracy'
@@ -83,7 +83,7 @@ const projects = [
     'Optimized Performance'
   ],
   image: 'https://images.unsplash.com/photo-1605701249987-f0bb9b505d06?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bnV0cyUyMGFuZCUyMGJvbHRzfGVufDB8fDB8fHww',
-  video: 'https://res.cloudinary.com/dusvrl5ei/video/upload/v1775343792/Screen_Recording_2026-03-09_183821_rvqx1m.mp4',
+  video: 'https://res.cloudinary.com/dusvrl5ei/video/upload/v1775342098/Screen_Recording_2026-03-12_051221_yuih5w.mp4',
   github: 'https://github.com/Prix09/FixForge',
   live: '#',
   impact: 'Improved user experience and product discoverability through structured UI and responsive design'
