@@ -1,5 +1,7 @@
 {
-    "name": "nextjs-mongo-template",
+    "name": "portfolio-priya-mishra",
+    "author": "Priya Mishra",
+    "homepage": "https://portfolio-priya-mishra.vercel.app/",
     "version": "0.1.0",
     "private": true,
     "scripts": {
